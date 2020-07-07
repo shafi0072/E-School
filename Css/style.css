@@ -103,21 +103,62 @@
 }
 .date{
     font-size: 12px;
-    margin-top: 10px;
+    margin-top: 22px;
 }
-#foter{
-    width: 100%;
-}
-.people{
-    width: 30px;
-    height: 30px;
-    margin-top: 20px;
-    position: relative;
-    left: 152px;
-}
+
+
 .Seats{
     font-size: 12px;
+    margin-top: 22px;
+}
+.card img{
+    max-width: 95%;
+    margin: auto;
     margin-top: 10px;
 }
+.card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    transition: transform 1s ease-in-out;
+}
+.card-deck{
+    margin-top: 50px;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.section4{
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+.man img{
+    width: 200px;
+}
+.Testimonial{
+    margin-bottom: 50px;
+}
+footer{
+    width: 100%;
+    height: 100%;
+    
+    background: #282531;
+}
+.font-color p{
+    color: white;
+}
+.font-color h3{
+          color: white;
+}
+.font-color a{
+           color: white;
+}
 
-
+.lastcopyritht{
+    color: white;
+}
+.copyright{
+    text-align: center;
+    margin-top: 70px;
+    padding-bottom: 10px;
+}
