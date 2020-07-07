@@ -1,0 +1,97 @@
+.nav-item {
+    padding-bottom: 50px;
+}
+.logo {
+    position: absolute;
+    width: 198.07px;
+    height: 55px;
+
+    top: 0;
+}
+.itemspadding {
+    padding: 20px 0;
+}
+.bgcolor {
+    background: #F0FFF0;
+
+}
+.Singin {
+    background: #21B573;
+    border-radius: 33px;
+    width: 104px;
+    height: 43px;
+    border: none;
+    font-weight: normal!important;
+    color: white!important;
+    transition: all 1s;
+}
+.Singin:hover {
+    transform: scale(1.2);
+    background-color: yellowgreen;
+}
+.nav-link {
+    margin: 0 15px;
+    font-weight: bold;
+}
+.Illustration-Sizing {
+
+    width: 490px;
+    height: 300px;
+}
+
+.carosel-padding {
+    padding-bottom: 60px;
+}
+.Start-button {
+    width: 153px;
+    height: 43px;
+
+    margin-top: 30px;
+}
+.Learning-header {
+    font-weight: bold;
+}
+.Learning-header span {
+    color: #21B573;
+}
+.row-items {
+    padding: 50px 20px;
+}
+.ready-to-learn {
+    color: #FD511A;
+}
+.Lorem {
+    color: gray;
+    margin-top: 30px;
+}
+.section-2 {
+    margin-top: 100px;
+    width: 100%;
+    padding-bottom: 100px;
+}
+.img {
+    width: 100px;
+    height:;
+    margin: auto;
+    padding: 20px;
+
+}
+.cat1,
+.cat2,
+.cat3,
+.cat4 {
+    text-align: center;
+    width: 230px;
+    height: 230px;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.hover:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.hover{
+    transition: transform 1s ease-in-out;
+}
+
+
