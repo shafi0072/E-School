@@ -93,5 +93,31 @@
 .hover{
     transition: transform 1s ease-in-out;
 }
+.calender{
+    margin-top: 20px;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    right: 8px;
+    bottom: 3px;
+}
+.date{
+    font-size: 12px;
+    margin-top: 10px;
+}
+#foter{
+    width: 100%;
+}
+.people{
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    position: relative;
+    left: 152px;
+}
+.Seats{
+    font-size: 12px;
+    margin-top: 10px;
+}
 
 
